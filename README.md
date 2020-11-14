@@ -1,4 +1,4 @@
-### Eu sou Alan, Desenvolvedor Back-End 
+# Eu sou Alan, Desenvolvedor Back-End <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30px">
 
 <!--
 **alandev2/alandev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
