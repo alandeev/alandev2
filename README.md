@@ -8,7 +8,7 @@
   const me = await user.create({
     name: 'Alan',
     age: 18,
-    city: 'Recife, PE',
+    city: ['Recife, PE'],
     stack: ['Javascript','MongoDB(NOSQL)', '(My|Postgre)SQL'],
     hobby: 'I love web dev, animes and trance music'
   });
