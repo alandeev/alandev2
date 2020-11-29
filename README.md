@@ -8,7 +8,7 @@
 
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
- ### A student and beginner web-developer
+ ### A student and web-developer
  
   - 🌱 I’m currently learning **JS tools (Node, React)** and **postgres(SQL) mongodb(NOSQL)**
  - 🤝 I'm available for new connections and projects
