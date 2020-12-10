@@ -15,7 +15,7 @@
  - 🚀 Always finding for new knowledges and experiences
 
 ### Language and Tools
-<ul style="display: flex; list-style: none; >    
+<ul style="display: flex; list-style: none;" >    
  <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp;
  <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;
  <img height="23" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"> &nbsp;
