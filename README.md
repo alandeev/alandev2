@@ -10,7 +10,7 @@
 
  ### A student and web-developer
  
-  - 🌱 I’m currently learning **JS tools (Node, React)** and **postgres(SQL) mongodb(NOSQL)**
+ - 🌱 I’m currently learning **JS tools (Node, React)** and **postgres(SQL) mongodb(NOSQL)**
  - 🤝 I'm available for new connections and projects
  - 🚀 Always finding for new knowledges and experiences
 
