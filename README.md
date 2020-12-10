@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alan.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alandev2&show_icons=true&bg_color=000&text_color=000&title_color=14274e&icon_color=394867)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alandev2&show_icons=true&bg_color=000&text_color=fff&title_color=14274e&icon_color=394867)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/alandev2/)](https://www.linkedin.com/in/alandev2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:alanworking1@gmail.com)](mailto:alanworking1@gmail.com)
