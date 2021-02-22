@@ -2,7 +2,7 @@
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br>
 
-I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with Python in 2019 and since then I try to evolve every day.
+I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with Python in 2017 and since then I try to evolve every day.
 Currently studying the about new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
 
 #### Web Development: <br>
