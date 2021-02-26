@@ -20,6 +20,8 @@ Currently studying the about new concepts to improve my knowledge. Everything th
 <img height="26" alt="Sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> &nbsp;
 <img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
 <img height="26" alt="TypeORM" src="https://typeorm.io/image/favicon/safari-pinned-tab.svg" color="#fff"> &nbsp;
+<img height="26" alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg"> &nbsp;
+
 ### Other Languages: <br>
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="26" alt="CSharp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f464deebc2e6ecfe8da62fac3399a25141cb56f9/icons/csharp.svg"> &nbsp;
