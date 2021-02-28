@@ -21,7 +21,7 @@ Currently studying the about new concepts to improve my knowledge. Everything th
 <img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
 <img height="26" alt="TypeORM" src="https://typeorm.io/image/favicon/safari-pinned-tab.svg" color="#fff"> &nbsp;
 <img height="26" alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg"> &nbsp;
-<img height="26" alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> &nbsp;
+<img height="26" alt="AWS" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a7693010566644c425f496356f46c6611b7a54be/icons/amazonaws.svg"> &nbsp;
 
 ### Other Languages: <br>
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
