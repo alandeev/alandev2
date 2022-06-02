@@ -1,6 +1,6 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alan
+## Hi, I'm Alan
 
-<img src="https://image.flaticon.com/icons/png/512/3067/3067287.png" align="right" width=150 /><br>
+<img src="https://cdn-icons.flaticon.com/png/512/3422/premium/3422658.png?token=exp=1654200614~hmac=f8f99a2720ffa47f0c4cd90a50c8d2e1" align="right" width=150 /><br>
 
 I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with Python in 2017 and since then I try to evolve every day.
 Currently studying the about new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
