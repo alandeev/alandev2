@@ -1,9 +1,9 @@
 ## Hi, I'm Alan
 
-<img src="https://cdn-icons.flaticon.com/png/512/3422/premium/3422658.png?token=exp=1654200614~hmac=f8f99a2720ffa47f0c4cd90a50c8d2e1" align="right" width=150 /><br>
+<img src="https://freesvg.org/img/jean_victor_balin_icon_host.png" align="right" width=150 /><br>
 
-I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with Python in 2017 and since then I try to evolve every day.
-Currently studying the about new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
+I’m currently studying to be a **Backend Developer**. Started programming with Python in 2017 and since then I try to evolve every day.
+Currentlystudying the about new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a backend developer.
 
 ### Web Development: <br>
 #### Front-end ( I like )
@@ -24,8 +24,8 @@ Currently studying the about new concepts to improve my knowledge. Everything th
 <img height="26" alt="AWS" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a7693010566644c425f496356f46c6611b7a54be/icons/amazonaws.svg"> &nbsp;
 
 ### Other Languages: <br>
+<img height="26" alt="Elixir" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg"> &nbsp;
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
-<img height="26" alt="CSharp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f464deebc2e6ecfe8da62fac3399a25141cb56f9/icons/csharp.svg"> &nbsp;
 <hr>
 
 #### Get in Touch ⤵️
